@@ -22,9 +22,3 @@ ANDROID APP DEVELOPMENT USING REACT NATIVE
         
 
 
-<<<<<<< HEAD
-We will have 5 days of learning
-DAY 1 : setup, say hi to android development using react native 
-learning git commands - clone, add, and commit cd
-=======
->>>>>>> ae1f7696a3ecd43136127d0741e95c32481dda0c
