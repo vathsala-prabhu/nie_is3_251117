@@ -1,6 +1,24 @@
 # nie_is3_251117
-android app development learning using react native
+ANDROID APP DEVELOPMENT USING REACT NATIVE 
 
-We will have 5 days of learning
-DAY 1 : setup, say hi to android development using react native 
-learning git commands - clone, add, and commit
+#DAY 01 :
+        INTODUCTION TO GIT AND GITHUB
+        INTRODUCTION TO REACT NATIVE
+        USING GIT COMMANDS
+        BUILDING A SIMPLE CALCULATOR APP
+
+#DAY 02 :
+       BUILDING - SQUARE CALCULATOR AND CUBE CALCULATOR
+       
+#DAY 03 :
+        PROCUCT MANAGEMENT - EXPO ROUTER
+        API CALLS
+        
+#DAY 04 :
+        INTRO TO BACKEND DEVELOPMENT - NODE JS (JS) + EXPRESS JS(WEB API FW) + SEQUELIZE (ORM) + SQLITE (RDBMS)
+        PERFORMING *CRUD* OPERATION
+        PRODUCT API
+        FLIGHT API
+        
+
+
